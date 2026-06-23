@@ -1,9 +1,11 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am an AI-powered Full Stack Developer with over 8 years of experience in building scalable, high-performance web and mobile applications. My expertise spans across modern web development technologies, with a strong focus on creating dynamic, responsive, and user-centric solutions.
+I am a Full Stack & Game Security Developer with over 9 years of experience building scalable, high-performance systems — from AI-powered web and mobile applications to secure anti-cheat engines for online games. My expertise spans modern web development and low-level systems programming in C++, with a strong focus on creating secure, real-time, and user-centric solutions.
 
 Throughout my career, I have worked across a diverse range of industries, including:
+<p>◉ 𝐆𝐚𝐦𝐞 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 & 𝐀𝐧𝐭𝐢-𝐂𝐡𝐞𝐚𝐭 (𝐅𝐢𝐯𝐞𝐌 / 𝐂𝐢𝐭𝐢𝐳𝐞𝐧𝐅𝐗)</p>
+<p>◉ 𝐑𝐞𝐯𝐞𝐫𝐬𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 & 𝐑𝐞𝐚𝐥-𝐭𝐢𝐦𝐞 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬</p>
 <p>◉ 𝐀𝐈-𝐩𝐨𝐰𝐞𝐫𝐞𝐝 𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬(𝐈𝐦𝐚𝐠𝐞, 𝐕𝐢𝐝𝐞𝐨, 𝐒𝐭𝐨𝐫𝐲𝐛𝐨𝐨𝐤, 𝐚𝐧𝐝 𝐀𝐯𝐚𝐭𝐚𝐫 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧)</p>
 <p>◉ 𝐎𝐂𝐑 𝐚𝐧𝐝 𝐑𝐞𝐭𝐫𝐢𝐞𝐯𝐚𝐥-𝐀𝐮𝐠𝐦𝐞𝐧𝐭𝐞𝐝 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧(𝐑𝐀𝐆)𝐬𝐲𝐬𝐭𝐞𝐦</p>
 <p>◉ 𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦</p>
@@ -22,14 +24,25 @@ I have collaborated with a Texas-based remote team and successfully delivered 30
 
 With a deep understanding of UI/UX principles and a strong emphasis on performance optimization and scalability, I strive to build innovative and impactful digital experiences.
 
+# 🛡️ Game Security & Anti-Cheat
+I build secure, scalable anti-cheat systems for online multiplayer games and FiveM (CitizenFX/FXServer), from the low-level detection core to the cloud panel that runs it.
+<p>◉ Native C++ detection modules - memory inspection, signature + heuristic detection, and anti-tamper</p>
+<p>◉ Real-time detection of aimbot, silent aim, injection, spawn exploits, and Lua abuse</p>
+<p>◉ Node.js backends with REST & gRPC APIs, PostgreSQL and Redis for instant bans and replayable logs</p>
+<p>◉ Trust-scoring models that weigh many behavioral signals together to keep false bans low</p>
+<p>◉ Cloud admin panels for remote bans, kicks, screenshots, and live server monitoring</p>
+<p>◉ Reverse engineering of cheat binaries to extract signatures and ship new detections fast</p>
+
 # ✨ Skills
+**Game Security & Systems** - C++ (C++17/20), Lua, FiveM (CitizenFX/FXServer), Reverse Engineering, Memory Analysis, Signature & Heuristic Detection, Anti-Tamper, Anti-VPN
+
 **Frontend** - Html, Css, React Js, Javascript, Typescript, Nextjs, Tailwind, Vue.js, Bootstrap, Framer-motion
 
-**Backend** - Node.js, Express, WebSockets, OAuth, Zod, Passport.js, Python, Django, Flask, FastAPI, REST APIs / GraphQL
+**Backend** - C++, Node.js, Express, Fastify, gRPC, WebSockets, OAuth, Zod, Passport.js, Python, Django, Flask, FastAPI, REST APIs / GraphQL
 
-**DevOps** - Docker, AWS, Nginx, GCP, Azure, Kubernetes
+**DevOps** - Docker, Kubernetes, RabbitMQ, Kafka, AWS, Nginx, GCP, Azure, CI/CD, Linux
 
-**DataBase** - MySQL, MongoDB, PostgreSQL, Firebase
+**DataBase** - MySQL, MongoDB, PostgreSQL, Redis, Firebase
 
 **NoCode/LowCode Platforms** - Shopify, Magento, Wordpress
 
@@ -38,7 +51,7 @@ With a deep understanding of UI/UX principles and a strong emphasis on performan
 
 ###
 
-<p align="left">✔ AI & ML Solutions:  Transform your business with cutting-edge AI technologies. Develop intelligent chatbots, advanced machine learning predictive models, and data-driven tools tailored to your needs.<br><br>✔ Automation Bots:  Streamline operations with custom automation solutions, including crypto trading bots, betting bots, web scraping tools, and seamless API integrations to save time and maximize efficiency.<br><br>✔ CRM Automation:  Revolutionize your workflow with smart automation across CRMs like HubSpot, Salesforce, Zoho, and more, using tools like Zapier, Make.com, and n8n for unparalleled process optimization.</p>
+<p align="left">✔ Game Security & Anti-Cheat:  Build production-grade anti-cheat for online games and FiveM - native C++ detection cores, secure Node.js backends with REST/gRPC APIs, real-time detection of aimbot, injection, and exploit abuse, plus cloud panels for bans and live monitoring.<br><br>✔ AI & ML Solutions:  Transform your business with cutting-edge AI technologies. Develop intelligent chatbots, advanced machine learning predictive models, and data-driven tools tailored to your needs.<br><br>✔ Automation Bots:  Streamline operations with custom automation solutions, including crypto trading bots, betting bots, web scraping tools, and seamless API integrations to save time and maximize efficiency.<br><br>✔ CRM Automation:  Revolutionize your workflow with smart automation across CRMs like HubSpot, Salesforce, Zoho, and more, using tools like Zapier, Make.com, and n8n for unparalleled process optimization.</p>
 
 ###
 
@@ -102,6 +115,60 @@ With a deep understanding of UI/UX principles and a strong emphasis on performan
   </tr>
   <tr>
     <td align="center" width="105">
+        <a href="https://isocpp.org/">
+            <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
+            <br>C++
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://www.lua.org/docs.html">
+            <img src="https://skillicons.dev/icons?i=lua" width="65" height="65" alt="Lua" />
+            <br>Lua
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://docs.fivem.net/docs/">
+            <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="FiveM" />
+            <br>FiveM
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://redis.io/docs/">
+            <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
+            <br>Redis
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://grpc.io/docs/">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-plain.svg" width="65" height="65" alt="gRPC" />
+            <br>gRPC
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://kubernetes.io/docs/home/">
+            <img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="Kubernetes" />
+            <br>Kubernetes
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://nginx.org/en/docs/">
+            <img src="https://skillicons.dev/icons?i=nginx" width="65" height="65" alt="Nginx" />
+            <br>Nginx
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://www.kernel.org/doc/html/latest/">
+            <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+            <br>Linux
+        </a>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="Go" />
+      <br>Go
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="105">
       <img src="https://skillicons.dev/icons?i=solidity" width="65" height="65" alt="Solidity" />
       <br>Solidity
     </td>
@@ -116,10 +183,6 @@ With a deep understanding of UI/UX principles and a strong emphasis on performan
     <td align="center" width="105">
       <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="65" height="65" style="border-radius: 15px;" alt="Solana" />
       <br>Solana
-    </td>
-    <td align="center" width="105">
-      <img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="Go" />
-      <br>Go
     </td>
     <td align="center" width="105">
       <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="65" >
@@ -141,14 +204,14 @@ With a deep understanding of UI/UX principles and a strong emphasis on performan
             <br>Pandas
         </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/python/scipy/index.php">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/scipy-logo.jfif" width="65" height="65" alt="Scipy" />
             <br>Scipy
         </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/datascience/default.asp">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/data%20science-logo.png" width="65" height="65" alt="Data Science" />
@@ -197,14 +260,14 @@ With a deep understanding of UI/UX principles and a strong emphasis on performan
             <br>TypeScript
         </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/react/default.asp">
             <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
             <br>React
         </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/nodejs/default.asp">
             <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
@@ -249,14 +312,14 @@ With a deep understanding of UI/UX principles and a strong emphasis on performan
             <br>Express
         </a>
     </td>
- </tr>
- <tr>
     <td align="center" width="105">
         <a href="https://www.geeksforgeeks.org/nextjs/">
             <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="NextJS" />
             <br>NextJS
         </a>
     </td>
+ </tr>
+ <tr>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/mysql/default.asp">
             <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
@@ -313,7 +376,7 @@ With a deep understanding of UI/UX principles and a strong emphasis on performan
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="90%" height="110%" />
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RishiBakshii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <!--
