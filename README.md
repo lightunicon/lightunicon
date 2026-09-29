@@ -1,58 +1,37 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am a Full Stack & Game Security Developer with over 9 years of experience building scalable, high-performance systems — from AI-powered web and mobile applications to secure anti-cheat engines for online games. My expertise spans modern web development and low-level systems programming in C++, with a strong focus on creating secure, real-time, and user-centric solutions.
+🏆Senior Full stack developer & mobile developer 8+ 𝘆𝗲𝗮𝗿𝘀 building web and mobile apps that carry real revenue. I migrated session management for 𝟭𝗠+ users to Auth0 with 𝘇𝗲𝗿𝗼 𝗱𝗼𝘄𝗻𝘁𝗶𝗺𝗲, engineered platforms behind ~$𝟭𝟬𝗕/year in ecommerce for 𝗟'𝗢𝗿𝗲́𝗮𝗹, 𝗨𝗻𝗱𝗲𝗿 𝗔𝗿𝗺𝗼𝘂𝗿 & 𝗖𝗿𝗼𝗰𝘀, delivered enterprise data & BI trusted by 𝟴𝟬%+ of the 𝗙𝗼𝗿𝘁𝘂𝗻𝗲 𝟭𝟬𝟬 & shipped mobile apps still live 𝟴+ 𝘆𝗲𝗮𝗿𝘀 after launch. I'm a full-stack developer & a mobile app developer in one hire.
 
-Throughout my career, I have worked across a diverse range of industries, including:
-<p>◉ 𝐆𝐚𝐦𝐞 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 & 𝐀𝐧𝐭𝐢-𝐂𝐡𝐞𝐚𝐭 (𝐅𝐢𝐯𝐞𝐌 / 𝐂𝐢𝐭𝐢𝐳𝐞𝐧𝐅𝐗)</p>
-<p>◉ 𝐑𝐞𝐯𝐞𝐫𝐬𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 & 𝐑𝐞𝐚𝐥-𝐭𝐢𝐦𝐞 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬</p>
-<p>◉ 𝐀𝐈-𝐩𝐨𝐰𝐞𝐫𝐞𝐝 𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬(𝐈𝐦𝐚𝐠𝐞, 𝐕𝐢𝐝𝐞𝐨, 𝐒𝐭𝐨𝐫𝐲𝐛𝐨𝐨𝐤, 𝐚𝐧𝐝 𝐀𝐯𝐚𝐭𝐚𝐫 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧)</p>
-<p>◉ 𝐎𝐂𝐑 𝐚𝐧𝐝 𝐑𝐞𝐭𝐫𝐢𝐞𝐯𝐚𝐥-𝐀𝐮𝐠𝐦𝐞𝐧𝐭𝐞𝐝 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧(𝐑𝐀𝐆)𝐬𝐲𝐬𝐭𝐞𝐦</p>
-<p>◉ 𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦</p>
-<p>◉ 𝐋𝐞𝐠𝐚𝐥 & 𝐋𝐚𝐰 𝐅𝐢𝐫𝐦 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧</p>
-<p>◉ 𝐄-𝐜𝐨𝐦𝐦𝐞𝐫𝐜𝐞</p>
-<p>◉ 𝐇𝐞𝐚𝐥𝐭𝐡𝐜𝐚𝐫𝐞</p>
-<p>◉ 𝐅𝐢𝐧𝐚𝐧𝐜𝐞</p>
-<p>◉ 𝐑𝐞𝐚𝐥 𝐄𝐬𝐭𝐚𝐭𝐞</p>
-<p>◉ 𝐆𝐏𝐒 𝐓𝐫𝐚𝐜𝐤𝐢𝐧𝐠</p>
-<p>◉ 𝐋𝐞𝐚𝐝 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐝𝐚𝐭𝐚 𝐬𝐜𝐫𝐚𝐩𝐢𝐧𝐠/𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐬𝐲𝐬𝐭𝐞𝐦</p>
-<p>◉ 𝐁𝐨𝐨𝐤𝐢𝐧𝐠, 𝐎𝐫𝐝𝐞𝐫 & 𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐲 𝐬𝐲𝐬𝐭𝐞𝐦</p>
-<p>◉ 𝐑𝐞𝐚𝐥-𝐭𝐢𝐦𝐞 𝐦𝐨𝐧𝐢𝐭𝐨𝐫𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦</p>
-<p>◉ 𝐆𝐈𝐒(𝐆𝐞𝐨𝐠𝐫𝐚𝐩𝐡𝐢𝐜 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦)</p>
+◆ On the web I work across Node.js · React · Next.js · TypeScript · iOS · React Native · AWS · TypeScript · Angular · Vue · Nuxt · NestJS & Express.js with PostgreSQL · MongoDB & Redis · designing GraphQL & REST APIs. On mobile I ship native iOS Swift · native Android Java & Kotlin · Wear OS smartwatch apps and cross-platform React Native. I bring AI into products - Python-powered offline LLM chat with code capabilities, AI-assisted PR review adopted as a team standard & AI chatbots - I own DevOps end to end on AWS · Docker · Kubernetes & Linux
 
-I have collaborated with a Texas-based remote team and successfully delivered 30+ projects for over 15 global clients across the United States, Canada, Germany, and India.
+◆ Full stack web development
+Scalable, production-grade applications from architecture to release - Node.js · TypeScript · Java · Spring & Kafka event streaming on the backend & React · Next.js · Redux · Angular · Vue.js on the frontend. I design clean GraphQL & REST APIs & own the data layer in PostgreSQL · MongoDB & Redis, with a focus on 𝗿𝗲𝗹𝗶𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗮𝘁 𝘀𝗰𝗮𝗹𝗲
 
-With a deep understanding of UI/UX principles and a strong emphasis on performance optimization and scalability, I strive to build innovative and impactful digital experiences.
+◆ Mobile app development iOS · Android · Wear OS
+Native and cross-platform apps that stay live for 8 years. I've shipped ride-hailing (native Android + iOS, 2-tap ordering, real-time driver tracking), golf performance tracking Android + Wear OS, sensor-based auto shot detection, GPS, fully offline & offline-first travel guides - several still live & updated on the App Store & Google Play years after launch, with on-device processing and offline-first architecture
 
-# 🛡️ Game Security & Anti-Cheat
-I build secure, scalable anti-cheat systems for online multiplayer games and FiveM (CitizenFX/FXServer), from the low-level detection core to the cloud panel that runs it.
-<p>◉ Native C++ detection modules - memory inspection, signature + heuristic detection, and anti-tamper</p>
-<p>◉ Real-time detection of aimbot, silent aim, injection, spawn exploits, and Lua abuse</p>
-<p>◉ Node.js backends with REST & gRPC APIs, PostgreSQL and Redis for instant bans and replayable logs</p>
-<p>◉ Trust-scoring models that weigh many behavioral signals together to keep false bans low</p>
-<p>◉ Cloud admin panels for remote bans, kicks, screenshots, and live server monitoring</p>
-<p>◉ Reverse engineering of cheat binaries to extract signatures and ship new detections fast</p>
+◆ AI-augmented development
+I integrate AI where it earns its place: an offline, Python-powered LLM chat with code capabilities for an air-gapped enterprise, AI-assisted code review that improved review speed & quality across the team & AI chatbots. Python is my core tool for AI data & automation
 
-# ✨ Skills
-**Game Security & Systems** - C++ (C++17/20), Lua, FiveM (CitizenFX/FXServer), Reverse Engineering, Memory Analysis, Signature & Heuristic Detection, Anti-Tamper, Anti-VPN
+◆ DevOps · cloud & reliability
+AWS · serverless · EC2 · Lambda · Docker · Kubernetes · nginx · Linux · plus CI/CD & production monitoring with New Relic. I own alerting, root-cause analysis & reliability on live, revenue-critical systems. I've built & operated self-hosted infrastructure end to end
 
-**Frontend** - Html, Css, React Js, Javascript, Typescript, Nextjs, Tailwind, Vue.js, Bootstrap, Framer-motion
+◆ E-commerce engineering
+Salesforce Commerce Cloud · SFCC/SFRA · Demandware · ISML & headless commerce SCAYLE · commercetools · VueStorefront. I've integrated Klarna · Adyen · PayPal & reCAPTCHA into live checkout, built queue-based API services with retries & idempotency & led SFCC delivery for storefronts behind 𝗯𝗶𝗹𝗹𝗶𝗼𝗻𝘀 𝗶𝗻 𝗰𝗹𝗶𝗲𝗻𝘁 𝗿𝗲𝘃𝗲𝗻𝘂𝗲
 
-**Backend** - C++, Node.js, Express, Fastify, gRPC, WebSockets, OAuth, Zod, Passport.js, Python, Django, Flask, FastAPI, REST APIs / GraphQL
+◆ Data BI integration & automation
+Multi-source data aggregation & business-intelligence platforms that become a single source of truth, low-code / no-code data integration & n8n-style workflow automation - reliable, idempotent, queue-based API services and GraphQL / REST integrations
 
-**DevOps** - Docker, Kubernetes, RabbitMQ, Kafka, AWS, Nginx, GCP, Azure, CI/CD, Linux
+◆ How I work
+I own architecture as a tech lead, mentor junior-to-senior developers, set documentation standards & turn business requirements into shipped software with clear, proactive communication & a bias for reliability
 
-**DataBase** - MySQL, MongoDB, PostgreSQL, Redis, Firebase
+◆ Services
+Full stack development · Web application development · Node.js backend development · React & Next.js development · Full-stack development · TypeScript development · Fullstack development · Angular & Vue.js · Mobile app development · iOS & Android app development · React Native · API integration & API development · GraphQL · DevOps & Cloud infrastructure · AWS · Docker · Kubernetes · AI development · LLM integration · Python automation · n8n workflow automation · Salesforce Commerce Cloud · headless commerce · payment integration · SEO · Node.js developer · React developer · iOS app developer · Android app developer · full-stack engineer · TypeScript developer · Next.js developer · Vue.js developer · NestJS developer · GraphQL API development · microservice architecture · real-time applications · WebSockets · serverless architecture · e-commerce development · SaaS development · Full stack developer · data engineering · chatbot development · Fullstack developer · database design · cross-platform development · front-end development · Full-stack developer · HTML5 · CSS · Mobile app developer · 10+ years experiences · mobile apps still live 8+ years after launch
 
-**NoCode/LowCode Platforms** - Shopify, Magento, Wordpress
+Stack: Node.js · TypeScript · JavaScript · React · Next.js · Angular · Vue.js · Nuxt.js · NestJS · Express.js · GraphQL · Redux · PostgreSQL · MongoDB · Redis · Firebase · iOS · Swift · Android · Kotlin · Java · Wear OS · React Native · Python · AI Development · AWS · Docker · Kubernetes · Linux · CI/CD · Salesforce Commerce Cloud · n8n
 
-
-<h2 align="left">🌟 My Offerings:</h2>
-
-###
-
-<p align="left">✔ Game Security & Anti-Cheat:  Build production-grade anti-cheat for online games and FiveM - native C++ detection cores, secure Node.js backends with REST/gRPC APIs, real-time detection of aimbot, injection, and exploit abuse, plus cloud panels for bans and live monitoring.<br><br>✔ AI & ML Solutions:  Transform your business with cutting-edge AI technologies. Develop intelligent chatbots, advanced machine learning predictive models, and data-driven tools tailored to your needs.<br><br>✔ Automation Bots:  Streamline operations with custom automation solutions, including crypto trading bots, betting bots, web scraping tools, and seamless API integrations to save time and maximize efficiency.<br><br>✔ CRM Automation:  Revolutionize your workflow with smart automation across CRMs like HubSpot, Salesforce, Zoho, and more, using tools like Zapier, Make.com, and n8n for unparalleled process optimization.</p>
-
+<!--
 ###
 
 # 💻 Tech Stack:
@@ -370,7 +349,7 @@ I build secure, scalable anti-cheat systems for online multiplayer games and Fiv
     </td>
  </tr>
 </table>
-
+-->
   <div align="left">
     <h3><a id="snake"></a> 🐍 Contributions Eating Snake </h3> 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="90%" height="110%" />
